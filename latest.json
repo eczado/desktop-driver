@@ -16,7 +16,7 @@
       "url": "https://github.com/eczado/desktop-driver/releases/download/0.1.1/ECZADO.Desktop.Driver_0.1.1_amd64.AppImage"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURlJSQXcxelUyQ3QzUG9mZFVVNVVsOXZyWVRmT092MVlLR0UvQmp5M1A4dUUyMTZIRnc1djNCOHJZbXNsdFpIQ2haY0hvL2lURkRsc1h0Q25rOG9SN21UcCt4dUg4TGdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4NjgwNDk0CWZpbGU6RUNaQURPIERlc2t0b3AgRHJpdmVyXzAuMS4xX3g2NC1zZXR1cC5leGUKd3VXUUYvdFIwcXZpY1dsTFVIdk1OdFRMNjNTeFI3S2xuWW8wNEJsUUx1bGtJTkhyZDRMcDZwZ21EQ2x6VFF4bUp2Z0tiVzNtb3ExMG9kMGkxdFR3Qmc9PQo",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURlJSQXcxelUyQ3QzUG9mZFVVNVVsOXZyWVRmT092MVlLR0UvQmp5M1A4dUUyMTZIRnc1djNCOHJZbXNsdFpIQ2haY0hvL2lURkRsc1h0Q25rOG9SN21UcCt4dUg4TGdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4NjgwNDk0CWZpbGU6RUNaQURPIERlc2t0b3AgRHJpdmVyXzAuMS4xX3g2NC1zZXR1cC5leGUKd3VXUUYvdFIwcXZpY1dsTFVIdk1OdFRMNjNTeFI3S2xuWW8wNEJsUUx1bGtJTkhyZDRMcDZwZ21EQ2x6VFF4bUp2Z0tiVzNtb3ExMG9kMGkxdFR3Qmc9PQo=",
       "url": "https://github.com/eczado/desktop-driver/releases/download/0.1.1/ECZADO.Desktop.Driver_0.1.1_x64-setup.exe"
     }
   }
