@@ -1,23 +1,23 @@
 {
-  "version": "0.1.0",
-  "notes": "version 0",
-  "pub_date": "2026-01-17T23:20:00Z",
+  "version": "0.1.1",
+  "notes": "version 1",
+  "pub_date": "2026-01-17T23:31:00Z",
   "platforms": {
     "darwin-x86_64": {
       "signature": "write .sig file inner text here on every build!",
-      "url": "https://github.com/eczado/desktop-driver/releases/download/0.1.0/ECZADO.Desktop.Driver_0.1.0.tar.gz"
+      "url": "https://github.com/eczado/desktop-driver/releases/download/0.1.1/ECZADO.Desktop.Driver_0.1.1.tar.gz"
     },
     "darwin-aarch64": {
       "signature": "write .sig file inner text here on every build!",
-      "url": "https://github.com/eczado/desktop-driver/releases/download/0.1.0/ECZADO.Desktop.Driver_0.1.0.tar.gz"
+      "url": "https://github.com/eczado/desktop-driver/releases/download/0.1.1/ECZADO.Desktop.Driver_0.1.1.tar.gz"
     },
     "linux-x86_64": {
       "signature": "write .sig file inner text here on every build!",
-      "url": "https://github.com/eczado/desktop-driver/releases/download/0.1.0/ECZADO.Desktop.Driver_0.1.0_amd64.AppImage"
+      "url": "https://github.com/eczado/desktop-driver/releases/download/0.1.1/ECZADO.Desktop.Driver_0.1.1_amd64.AppImage"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURlJSQXcxelUyQ3Bwa1Fib2N4SktzSlVybGFNUjBIb3lpQS82WDZ3c24rTVV5TXRLSHJiUDY3ZUExZkhwZ3J4TElaSzZZN054YUc4a3FoU21idituSHd4U1kxZ3g3Y2drPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4NjgwMjk2CWZpbGU6RUNaQURPIERlc2t0b3AgRHJpdmVyXzAuMS4wX3g2NC1zZXR1cC5leGUKc0cwZ3pEaVM2ckxzN0xVZVg2QWp5SDJhVFQ4cncrQm16UlRQSEJneVBlRVQrSlFFQkJpTGxJTnpHTHltU3ovQ1FWOTZzUTBoU2Y0R0l2b1lhdXFpQUE9PQo",
-      "url": "https://github.com/eczado/desktop-driver/releases/download/0.1.0/ECZADO.Desktop.Driver_0.1.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURlJSQXcxelUyQ3QzUG9mZFVVNVVsOXZyWVRmT092MVlLR0UvQmp5M1A4dUUyMTZIRnc1djNCOHJZbXNsdFpIQ2haY0hvL2lURkRsc1h0Q25rOG9SN21UcCt4dUg4TGdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4NjgwNDk0CWZpbGU6RUNaQURPIERlc2t0b3AgRHJpdmVyXzAuMS4xX3g2NC1zZXR1cC5leGUKd3VXUUYvdFIwcXZpY1dsTFVIdk1OdFRMNjNTeFI3S2xuWW8wNEJsUUx1bGtJTkhyZDRMcDZwZ21EQ2x6VFF4bUp2Z0tiVzNtb3ExMG9kMGkxdFR3Qmc9PQo",
+      "url": "https://github.com/eczado/desktop-driver/releases/download/0.1.1/ECZADO.Desktop.Driver_0.1.1_x64-setup.exe"
     }
   }
 }
