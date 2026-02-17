@@ -1,23 +1,23 @@
 {
   "version": "0.1.1",
   "notes": "version 1",
-  "pub_date": "2026-01-17T23:31:00Z",
+  "pub_date": "2026-02-18T02:15:00Z",
   "platforms": {
     "darwin-x86_64": {
       "signature": "write .sig file inner text here on every build!",
-      "url": "https://github.com/eczado/desktop-driver/releases/download/0.1.1/ECZADO.Desktop.Driver_0.1.1.tar.gz"
+      "url": "https://github.com/eczado/desktop-driver/releases/download/0.1.1/ECZADO.Masaustu.Surucusu_0.1.1.tar.gz"
     },
     "darwin-aarch64": {
       "signature": "write .sig file inner text here on every build!",
-      "url": "https://github.com/eczado/desktop-driver/releases/download/0.1.1/ECZADO.Desktop.Driver_0.1.1.tar.gz"
+      "url": "https://github.com/eczado/desktop-driver/releases/download/0.1.1/ECZADO.Masaustu.Surucusu_0.1.1.tar.gz"
     },
     "linux-x86_64": {
       "signature": "write .sig file inner text here on every build!",
-      "url": "https://github.com/eczado/desktop-driver/releases/download/0.1.1/ECZADO.Desktop.Driver_0.1.1_amd64.AppImage"
+      "url": "https://github.com/eczado/desktop-driver/releases/download/0.1.1/ECZADO.Masaustu.Surucusu_0.1.1_amd64.AppImage"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYlRqRkl0aXJ5bitVMkRLMjE3REJRK3dDTklBZ1lUdTcwd1BrN0xLR3Uzc1M3eUo3aVFmdTFZblVwbEE2NmhsdVhQREpaa1JZOUluc3ZvOWxSRGl1V1hkZ3ZHbG9UY2dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4Njg1MDMwCWZpbGU6RUNaQURPIERlc2t0b3AgRHJpdmVyXzAuMS4xX3g2NC1zZXR1cC5leGUKRmF6M1E1M0p6ZktoNWExdVJtaXd0SnpESDhxSWhjd0F2eGRuL3loYk5pcDhOb1ZsZjhhenNDa3JObFlYK1ZpU2dwZG5vOTZva2N2dE9MK3JMTnduQmc9PQo=",
-      "url": "https://github.com/eczado/desktop-driver/releases/download/0.1.1/ECZADO.Desktop.Driver_0.1.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYlRqRkl0aXJ5bjdHR2hTMmNEMEhBVDFHcHF4YjIyeThLaXlBTThhSmdFU284TmZyOVREZmFLLzZzYnVsS0t3WDFsU05FcmdwYUNOOTVIOWRaUnFXNklWOE5mVHoyc2dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcxMzcwMDY5CWZpbGU6RUNaQURPIE1hc2HDvHN0w7wgU8O8csO8Y8O8c8O8XzAuMS4xX3g2NC1zZXR1cC5leGUKVld1RE5Jb1dHTXBNM0lUbElrNmNuTHJHdUZnT1kwMXkyZmlJZnY5RzJ0ZWZhVXFxakJCMXJoazV0bXV2UWhmUC9nRVZhVUtacE9hZVNaZldNSFByQnc9PQo=",
+      "url": "https://github.com/eczado/desktop-driver/releases/download/0.1.1/ECZADO.Masaustu.Surucusu_0.1.1_x64-setup.exe"
     }
   }
 }
